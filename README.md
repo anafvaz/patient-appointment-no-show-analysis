@@ -51,7 +51,7 @@ The Tableau dashboard was built using a single SQL view (`no_show_dashboard_base
 
 - Tableau Public link: see `https://public.tableau.com/views/Appointment_Analysis_17691842829090/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
-## Key Insights (summary)
+## Key Insights
 - Longer scheduling wait times are associated with higher no-show rates, especially 30+ days in advance.
 - No-show rates vary by weekday, suggesting some days carry higher scheduling risk.
 - Younger age groups show higher no-show rates compared to older groups.
