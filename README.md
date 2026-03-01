@@ -47,9 +47,10 @@ Key steps performed in SQL:
 ## Tableau Dashboard
 The Tableau dashboard was built using a single SQL view (`no_show_dashboard_base`) containing appointment-level data and transformation features. Tableau computes rates dynamically using `AVG(is_no_show)`.
 
-- Screenshot: <img width="1470" height="851" alt="Screenshot 2026-01-24 at 2 27 23 PM" src="https://github.com/user-attachments/assets/97a8154f-e536-4b2b-b45c-e70a0333e832" />
+- Screenshot: <img width="2838" height="1354" alt="No_Show_Dashboard" src="https://github.com/user-attachments/assets/a5d93d44-ddde-4cb1-a385-68fb9aef301c" />
 
-- Tableau Public link: see `https://public.tableau.com/views/Appointment_Analysis_17691842829090/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
+
+- Tableau Public link: see https://public.tableau.com/app/profile/ana.vaz7019/viz/Appointment_Analysis_17691842829090/Dashboard2?publish=yes
 
 ## Key Insights
 - Longer scheduling wait times are associated with higher no-show rates, especially 30+ days in advance.
